@@ -19,4 +19,4 @@ Remember to include the script in your head tag like this:
 ```
 
 ## OTHER STUFF
-Inside the file you can also change the update rate, and you can replace the mathematical function at the bottom if you want different type of movement. There are many types of such functions, see this repository for examples: https://gist.github.com/gre/1650294
+Inside the file you can also change the update rate, and you can replace the mathematical function at the bottom if you want different type of movement. There are many types of such mathematical functions which will create different types of movements, see this repository for examples: https://gist.github.com/gre/1650294
