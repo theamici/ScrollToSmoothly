@@ -14,7 +14,6 @@ The number 3000 is the number of milliseconds it should take, the default is 250
 Remember to include the script in your head tag like this:
 ```
 <head>
-    <!-- ... other stuff ... -->
     <script type="text/javascript" src="whereIHaveMyScriptStored/scrollToSmoothly.js"></script>
 </head>
 ```
