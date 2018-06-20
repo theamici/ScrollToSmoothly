@@ -15,7 +15,7 @@ Remember to include the script in your head tag like this:
 ```
 <head>
     <!-- ... other stuff ... -->
-    <script type="text/javascript" src="someLocation/someOtherLocation/scrollToSmoothly.js"></script>
+    <script type="text/javascript" src="whereIHaveMyScriptStored/scrollToSmoothly.js"></script>
 </head>
 ```
 
