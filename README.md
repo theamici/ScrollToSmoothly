@@ -1,4 +1,4 @@
-# HOW TO USE
+## HOW TO USE
 Given an HTML element that you want to scroll to like this:
 <div id="someid"></div>
 
