@@ -9,7 +9,7 @@ var scrollData =
 
     // You can change value on these 2 properties
     updateRate: 20,
-    duration: 2500 // default duration
+    duration: 2250 // default duration
 };
 
 function scrollToSmoothly (targetID, customDuration){
